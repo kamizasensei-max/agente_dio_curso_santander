@@ -428,3 +428,7 @@ def login():
     # Em produção, retornaria os resultados da query
     # Aqui simulamos a lógica
     if username in USERS
+
+## Atribuição
+
+Projeto de origem: [DIO Agent](https://github.com/digitalinnovationone/dio-agent).
